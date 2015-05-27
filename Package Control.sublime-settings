@@ -1,0 +1,40 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Better CoffeeScript",
+		"ColorSchemeSelector",
+		"CTags",
+		"Emmet",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"GitHub Flavored Markdown Preview",
+		"GitStatus",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"JavaScriptNext - ES6 Syntax",
+		"JSLint",
+		"Markdown Extended",
+		"Modific",
+		"ObjC2RubyMotion",
+		"Objective-C Autocompletion",
+		"Package Control",
+		"Ruby Slim",
+		"RubyMotionBuilder",
+		"RubyTest",
+		"Rust",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"SublimeREPL",
+		"Theme - Flatland",
+		"TOML"
+	]
+}

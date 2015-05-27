@@ -1,0 +1,4 @@
+*.*ca-bundle
+*.last-run
+*.cache
+SublimeLinter

@@ -1,0 +1,6 @@
+{
+  // "run_single_rspec_command": "whoami"
+  "run_rspec_command": "$HOME/Library/Application\\ Support/Sublime\\ Text\\ 3/Packages/User/rspec_env.sh bundle exec spring rspec {relative_path}",
+  "run_single_rspec_command": "$HOME/Library/Application\\ Support/Sublime\\ Text\\ 3/Packages/User/rspec_env.sh bundle exec spring rspec {relative_path}:{line_number}",
+  "save_on_run": true
+}

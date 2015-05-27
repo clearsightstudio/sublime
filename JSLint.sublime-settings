@@ -1,0 +1,24 @@
+{
+    // an array of options to pass to jslint.
+    "options" : [
+        "--predef", "['angular', 'document', '\\$', '_', 'JQuery', 'FB']"
+        ,"--sloppy"
+        ,"--indent", "2"
+        ,"--node"
+        // tolerate unfiltered for in.
+        //,"--forin"
+        // tolerate dangling _ in identifiers.
+        ,"--nomen"
+        // tolerate many var statements per function.
+        ,"--vars"
+        // tolerate ++ and --.
+        ,"--plusplus"
+        // tolerate blocking -Sync methods
+        ,"--stupid"
+        // tolerate comments starting with TODO
+        ,"--todo"
+
+    ]
+    ,"run_on_save" : false
+    ,"filename_filter": "(\\.js|\\.json)$"
+}

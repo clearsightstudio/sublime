@@ -1,0 +1,15 @@
+[
+  { "keys": ["shift+super+d"], "command": "find_all_under" },
+  { "keys": ["super+shift+c"], "command": "duplicate_line" },
+  { "keys": ["alt+shift+d"], "command": "find_under" },
+  { "keys": ["super+ctrl+r"], "command": "focus_file_on_sidebar" },
+
+  { "keys": ["alt+shift+r"], "command": "run_all_ruby_test",
+      "context": [ { "key": "selector", "operator": "equal",
+         "operand": "source.ruby, source.rspec, text.gherkin.feature"
+                } ]
+  }, // test file
+  { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"},
+  { "keys": ["super+shift+t"], "command": "reopen_last_file" },
+  {}
+]
